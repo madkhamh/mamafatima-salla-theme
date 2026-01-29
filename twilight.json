@@ -1,0 +1,15 @@
+{
+  "name": "Mama Fatima",
+  "slug": "mama-fatima",
+  "version": "1.0.0",
+  "author": "Mohsen",
+  "direction": "rtl",
+  "locale": "ar",
+  "colors": {
+    "primary": "#CFA349",
+    "secondary": "#8E8B4C",
+    "background": "#F6EDE3",
+    "text": "#5A3E2B",
+    "muted": "#D6D3CE"
+  }
+}
